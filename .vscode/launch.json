@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TrailingZero",
+            "request": "launch",
+            "mainClass": "TrailingZero",
+            "projectName": "DSA_465f05d5"
+        }
+    ]
+}
