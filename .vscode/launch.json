@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hcf_two",
+            "request": "launch",
+            "mainClass": "Hcf_two",
+            "projectName": "DSA_465f05d5"
+        },
+        {
+            "type": "java",
             "name": "TrailingZero",
             "request": "launch",
             "mainClass": "TrailingZero",
